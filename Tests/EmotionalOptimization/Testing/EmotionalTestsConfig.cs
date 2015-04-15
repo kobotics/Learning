@@ -97,6 +97,7 @@ namespace Learning.Tests.EmotionalOptimization.Testing
             //this.SingleTestParameters = new ArrayParameter(new[] { .10, -.2, .10, .00, .60 });    //poisoned prey season
             //this.SingleTestParameters = new ArrayParameter(new[] { .10, .00, -.2, .00, .70 });    //lairs
             this.SingleTestParameters = new ArrayParameter(new[] { -.4, .00, .00, .50, .10 });    //hunger-thirst
+            //this.SingleTestParameters = new ArrayParameter(new[] { .00, .00,-.30, .00, .70 });    //UNIVERSALadded
             //this.SingleTestParameters = new ArrayParameter(new[] {.40, .00, -.1, .20, -.3}); //moving preys
             //this.SingleTestParameters = new ArrayParameter(new[] { 1.0, .00, .00, .00, .00 });    //novelty only
 

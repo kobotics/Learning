@@ -1,0 +1,16 @@
+Range; -1.79769313486232E+308; 1.79769313486232E+308
+Quantity Count; 1
+Value Count; 1
+Min; 171
+Max; 171
+Average; 171
+Sum; 171
+Sum Square; 29241
+Std Dev; 0
+Avg + Std Dev; 171
+Avg - Std Dev; 171
+Avg + 2*Std Dev; 171
+Avg - 2*Std Dev; 171
+;
+Time;Value;StdDev;StdErr;SampleStdDev;Cumulative
+0;171;0;0;0;171

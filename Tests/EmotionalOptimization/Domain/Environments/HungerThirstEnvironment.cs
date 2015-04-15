@@ -26,7 +26,7 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
 
         public CellElement Water { get; protected set; }
 
-        private const int MAX_WATER_LEVEL = 1;
+        private const int MAX_WATER_LEVEL = 2;
 
         public override void Init()
         {
@@ -66,6 +66,7 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
         {
             
             return previousWaterLevel != 0 && base.AgentFinishedTask(agent, state, action);
+            //return base.AgentFinishedTask(agent, state, action);
         }
 
         public override void Reset()
