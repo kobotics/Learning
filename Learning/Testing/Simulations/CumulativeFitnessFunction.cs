@@ -17,9 +17,10 @@ namespace Learning.Testing.Simulations
 
         public void UpdateCurrentFitness(IAgent agent)
         {
-            //if (agent.MotivationManager.ExtrinsicReward.Value > 0)
+            if (agent.MotivationManager.ExtrinsicReward.Value > 0)
             {
-                agent.Fitness.Value += agent.MotivationManager.ExtrinsicReward.Value;
+                //agent.Fitness.Value += agent.MotivationManager.ExtrinsicReward.Value;
+                agent.Fitness.Value += 10;
             }
         }
 

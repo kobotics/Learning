@@ -26,7 +26,7 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
 
         public CellElement Water { get; protected set; }
 
-        private const int MAX_WATER_LEVEL = 2;
+        private const int MAX_WATER_LEVEL = 10;
 
         public override void Init()
         {

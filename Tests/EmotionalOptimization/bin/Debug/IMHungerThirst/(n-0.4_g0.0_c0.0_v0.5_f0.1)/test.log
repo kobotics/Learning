@@ -1,6 +1,22 @@
-[4/15/2015 4:40:06 PM] - Printing agent performance...
-[4/15/2015 4:40:07 PM] - Printing agent statistical quantities...
-[4/15/2015 4:40:08 PM] - (n-0.4_g0.0_c0.0_v0.5_f0.1) has finished.
-[4/15/2015 4:40:08 PM] - Time taken: 00:01:22
-[4/15/2015 4:40:08 PM] - Memory used: 5481536 bytes
-[4/15/2015 4:40:08 PM] - Test score: 171.00 ± 0.00
+[4/15/2015 5:47:20 PM] - Simulation 0: 30070.00
+[4/15/2015 5:47:24 PM] - Simulation 2: 49740.00
+[4/15/2015 5:47:25 PM] - Simulation 1: 47250.00
+[4/15/2015 5:47:27 PM] - Simulation 3: 47240.00
+[4/15/2015 5:48:02 PM] - Simulation 4: 47350.00
+[4/15/2015 5:48:09 PM] - Simulation 6: 44050.00
+[4/15/2015 5:48:11 PM] - Simulation 5: 47250.00
+[4/15/2015 5:48:13 PM] - Simulation 7: 39370.00
+[4/15/2015 5:48:45 PM] - Simulation 8: 48490.00
+[4/15/2015 5:48:50 PM] - Simulation 9: 50620.00
+[4/15/2015 5:48:52 PM] - Simulation 10: 49830.00
+[4/15/2015 5:48:58 PM] - Simulation 11: 29030.00
+[4/15/2015 5:49:25 PM] - Simulation 12: 50950.00
+[4/15/2015 5:49:26 PM] - Simulation 13: 47460.00
+[4/15/2015 5:49:30 PM] - Simulation 14: 49990.00
+[4/15/2015 5:49:32 PM] - Simulation 15: 42110.00
+[4/15/2015 5:49:32 PM] - (n-0.4_g0.0_c0.0_v0.5_f0.1) has finished.
+[4/15/2015 5:49:32 PM] - Time taken: 00:02:50
+[4/15/2015 5:49:32 PM] - Memory used: 5520712 bytes
+[4/15/2015 5:49:32 PM] - Test score: 45050.00 ± 6809.00
+[4/15/2015 5:49:32 PM] - Printing agent performance...
+[4/15/2015 5:49:32 PM] - Printing agent statistical quantities...

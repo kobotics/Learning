@@ -33,7 +33,7 @@ namespace Learning.IMRL.Domain
                             {
                                 IdToken = "food",
                                 Description = "food",
-                                Reward = 1f,
+                                Reward = 10f,
                                 Visible = true,
                                 Walkable = true,
                                 HasSmell = true,
