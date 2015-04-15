@@ -1,0 +1,76 @@
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.pdb
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\CommandLine.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Learning.pdb
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\CommandLine.xml
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
+C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.pdb
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\PS.Utilities.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.pdb
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.pdb
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.xml
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.xml
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.xml
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
+C:\Users\Allison\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.pdb
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\PS.Utilities.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.pdb
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.pdb
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.xml
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.xml
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.xml
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
+C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.pdb
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Learning.pdb
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\CommandLine.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb

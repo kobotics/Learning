@@ -1,0 +1,53 @@
+{
+  "$id": "1",
+  "RunAllTestsAgain": false,
+  "AddSpecialTestParams": true,
+  "TestID": "Optimization",
+  "ProgressValue": 1.0,
+  "LogStatistics": true,
+  "StopAllTests": false,
+  "TestMeasures": [],
+  "OptimizationTestFactory": {
+    "$id": "2",
+    "TestsConfig": {
+      "$id": "3",
+      "envPath": "../../../../bin/config",
+      "graphics": true,
+      "cpus": 4,
+      "numSims": 8,
+      "numSamples": 100,
+      "testType": 4,
+      "params": [
+        "-0.4",
+        "0",
+        "0",
+        "0.5",
+        "0.1"
+      ],
+      "testTypes": [
+        5,
+        4
+      ]
+    },
+    "Scenario": {
+      "$id": "4",
+      "TestsConfig": {
+        "$ref": "3"
+      },
+      "TestMeasuresFilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMLairs\\Optim\\TestMeasuresOptim.csv",
+      "EnvironmentConfigFile": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\bin\\config\\corners-environment.xml",
+      "FilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMLairs\\Optimization",
+      "MaxStates": 80,
+      "FitnessText": "Fitness",
+      "AgentFitnessFunction": {
+        "$id": "5"
+      }
+    }
+  },
+  "NumTimeSteps": 100000,
+  "NumSimulations": 8,
+  "LogWriter": null,
+  "FilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMLairs\\Optimization",
+  "MemoryUsage": 0,
+  "TestSpeed": "00:00:00"
+}

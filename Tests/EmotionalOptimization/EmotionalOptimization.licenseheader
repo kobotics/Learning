@@ -1,0 +1,23 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// ------------------------------------------
+// %FileName%, %Project%
+//
+// Created by Pedro Sequeira, %CreationYear%/%CreationMonth%/%CreationDay%
+//
+// pedro.sequeira@gaips.inesc-id.pt
+// ------------------------------------------
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+	%FileName%, %Project%
+
+	Created by Pedro Sequeira, %CreationYear%/%CreationMonth%/%CreationDay%
+
+	pedro.sequeira@gaips.inesc-id.pt
+-->

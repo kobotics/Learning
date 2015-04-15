@@ -1,0 +1,48 @@
+Universe = vanilla
+Executable = EmotionalOptimization
+should_transfer_files = NO
+periodic_release = TRUE
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=-1 0 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 -1 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 -1 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 0 -1 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 0 0 -1 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 0 0 1 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 0 1 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 1 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 1 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=1 0 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=5 --params=0 0 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=-1 0 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 -1 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 -1 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 0 -1 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 0 0 -1 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 0 0 1 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 0 1 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 1 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 1 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=1 0 0 0 0 --testTypes=5 4
+Queue
+Arguments = --envPath=../../../../bin/config --cpus=4 --numSims=1 --numSamples=100 --testType=4 --params=0 0 0 0 0 --testTypes=5 4
+Queue

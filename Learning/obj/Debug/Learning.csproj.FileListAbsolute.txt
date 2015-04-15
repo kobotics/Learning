@@ -1,0 +1,17 @@
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\Debug\Learning.Properties.Resources.resources
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\Debug\Learning.csproj.GenerateResource.Cache
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\Debug\Learning.dll
+C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\Debug\Learning.pdb

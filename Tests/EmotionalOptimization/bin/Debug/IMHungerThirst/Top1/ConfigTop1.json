@@ -1,0 +1,529 @@
+{
+  "$id": "1",
+  "TestID": "Top1",
+  "TopTests": true,
+  "NumberTests": 1,
+  "RunAllTestsAgain": true,
+  "AddSpecialTestParams": true,
+  "ProgressValue": 1.0,
+  "LogStatistics": true,
+  "StopAllTests": false,
+  "TestMeasures": [
+    {
+      "$id": "2",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "3",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "4",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "5",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "6",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "7",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "8",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "9",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "10",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "11",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "12",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "13",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "14",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "15",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "16",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "17",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "18",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "19",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "20",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "21",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "22",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "23",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "24",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "25",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "26",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "27",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "28",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "29",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "30",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "31",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "$id": "32",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "33",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "34",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "35",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "36",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "37",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "38",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "39",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "40",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "41",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "42",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "43",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "44",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "45",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "46",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "47",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "48",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "49",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "$id": "50",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "51",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "52",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "53",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "54",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "55",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "56",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "57",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "58",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "59",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "60",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "61",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "$id": "62",
+      "NumDecimalPlaces": 2,
+      "Domains": [
+        {
+          "$id": "63",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "64",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "65",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "66",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        },
+        {
+          "$id": "67",
+          "max": 1.0,
+          "min": -1.0,
+          "step": 0.1
+        }
+      ],
+      "Array": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OptimizationTestFactory": {
+    "$id": "68",
+    "TestsConfig": {
+      "$id": "69",
+      "envPath": "../../../../bin/config",
+      "graphics": true,
+      "cpus": 4,
+      "numSims": 8,
+      "numSamples": 100000,
+      "testType": 4,
+      "params": [
+        "-0.4",
+        "0",
+        "0",
+        "0.5",
+        "0.1"
+      ],
+      "testTypes": [
+        5,
+        4
+      ]
+    },
+    "Scenario": {
+      "$id": "70",
+      "TestsConfig": {
+        "$ref": "69"
+      },
+      "TestMeasuresFilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\Optimization\\TestMeasuresOptimization.csv",
+      "EnvironmentConfigFile": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\bin\\config\\corners-environment.xml",
+      "FilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\Top1",
+      "MaxStates": 50,
+      "FitnessText": "Fitness",
+      "AgentFitnessFunction": {
+        "$id": "71"
+      }
+    }
+  },
+  "NumTimeSteps": 100000,
+  "NumSimulations": 8,
+  "LogWriter": null,
+  "FilePath": "C:\\Users\\Kim\\Box Sync\\Machine Learning\\Project\\Code\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\Top1",
+  "MemoryUsage": 0,
+  "TestSpeed": "00:00:00"
+}
