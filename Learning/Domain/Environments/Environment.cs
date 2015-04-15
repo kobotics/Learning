@@ -109,6 +109,7 @@ namespace Learning.Domain.Environments
 
         public int WaterLevel { get; protected set; }
         public int previousWaterLevel { get; protected set; }
+        public int timeStepCounter { get; set; }
 
         public uint Cols { get; protected set; }
 

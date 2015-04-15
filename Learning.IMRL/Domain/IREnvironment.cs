@@ -19,8 +19,10 @@ namespace Learning.IMRL.Domain
     public class IREnvironment : SingleAgentEnvironment
     {
         protected const int WORLD_SIZE = 3;
-        public const string wPenaltyType = "none";
+        public const string wPenaltyType = "linear";
         public const double wPenaltyParam = 1;
+        public const double wPenaltyAlpha = 1.0002;
+        public const string wPenaltyScale = "exp";
         private const double PATH_COST = 0.1;
 
 
@@ -65,17 +67,22 @@ namespace Learning.IMRL.Domain
         public override double GetAgentReward(IAgent agent, IState state, IAction action)
         {
             var temp = this.AgentFinishedTask(agent, state, action) ? 
-                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(wPenaltyType,wPenaltyParam,this.previousWaterLevel))) : 0;
+                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(wPenaltyType,wPenaltyParam,this.previousWaterLevel,wPenaltyAlpha,wPenaltyScale))) : 0;
             return temp;
         }
 
-        private double excessWaterPenalty(string PenaltyType, double param, int wLevel)
+        private double excessWaterPenalty(string PenaltyType, double param, int wLevel, double alpha, string PenaltyScale)
         {
+            double result = 0;
             if (PenaltyType.Equals("linear"))
-                return param * wLevel;
+                result= param * wLevel;
             else if (PenaltyType.Equals("none"))
-                return 0;
-            return 0;
+                result= 0;
+
+            if (PenaltyScale.Equals("exp"))
+                result=result*(1-Math.Pow(alpha,-this.timeStepCounter))
+
+            return result;
         }
 
         public override bool AgentFinishedTask(IAgent agent, IState state, IAction action)

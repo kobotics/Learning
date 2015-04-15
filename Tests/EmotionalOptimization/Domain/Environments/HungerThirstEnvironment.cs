@@ -22,6 +22,9 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
         public HungerThirstEnvironment()
         {
             this.AutoEat = true;
+            this.previousWaterLevel = 0;
+            this.WaterLevel = 0;
+            this.timeStepCounter = 0;
         }
 
         public CellElement Water { get; protected set; }
@@ -58,7 +61,8 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
             else if(((state is IStimuliState) &&  ((IStimuliState) state).Sensations.Contains(this.Hare.IdToken))){
                 previousWaterLevel = this.WaterLevel;
                 this.WaterLevel = 0;
-            }            
+            }
+            this.timeStepCounter = this.timeStepCounter +1;
         
         }
 

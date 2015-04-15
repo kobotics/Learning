@@ -23,6 +23,7 @@ namespace Learning.Domain.Environments
         bool DebugMode { get; set; }
         int WaterLevel { get; }
         int previousWaterLevel { get; }
+        int timeStepCounter { get; }
         uint Rows { get; }
         uint Cols { get; }
         Cell[,] Cells { get; }
