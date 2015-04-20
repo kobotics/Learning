@@ -19,11 +19,11 @@ namespace Learning.IMRL.Domain
     public class IREnvironment : SingleAgentEnvironment
     {
         protected const int WORLD_SIZE = 3;
-        public const string wPenaltyType = "linear";
-        public const double wPenaltyParam = 1;
-        public const double wPenaltyAlpha = 1.0002;
-        public const string wPenaltyScale = "exp";
-        private const double PATH_COST = 0.1;
+        public string wPenaltyType = "linear";
+        public double wPenaltyParam = 1;
+        public double wPenaltyAlpha = 1.0002;
+        public string wPenaltyScale = "exp";
+        public double PATH_COST = 0;
 
 
         protected Cell[] possiblePreyCells;
