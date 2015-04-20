@@ -74,3 +74,22 @@ C:\Users\Keshav Budwal\Documents\10-701\Project\NewLearning\Learning\Learning.Ev
 C:\Users\Keshav Budwal\Documents\10-701\Project\NewLearning\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.csprojResolveAssemblyReference.cache
 C:\Users\Keshav Budwal\Documents\10-701\Project\NewLearning\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.dll
 C:\Users\Keshav Budwal\Documents\10-701\Project\NewLearning\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Learning.EvolutionaryComputation.dll.config
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Learning.EvolutionaryComputation.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Learning.EvolutionaryComputation.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\AForge.Genetic.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\CommandLine.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Learning.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\PS.Utilities.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\QuickGraph.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Learning.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\CommandLine.xml
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\bin\x64\Debug\QuickGraph.xml
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.dll
+C:\Users\Allison\Documents\GitHub\Learning\Learning.EvolutionaryComputation\obj\x64\Debug\Learning.EvolutionaryComputation.pdb
