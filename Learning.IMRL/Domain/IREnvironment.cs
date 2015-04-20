@@ -68,7 +68,7 @@ namespace Learning.IMRL.Domain
         public override double GetAgentReward(IAgent agent, IState state, IAction action)
         {
             var temp = this.AgentFinishedTask(agent, state, action) ? 
-                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(global.wPenaltyType,global.wPenaltyParam,this.previousWaterLevel,global.wPenaltyAlpha,global.wPenaltyScale))) : 0;
+                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(Global.wPenaltyType,Global.wPenaltyParam,this.previousWaterLevel,Global.wPenaltyAlpha,Global.wPenaltyScale))) : 0;
             return temp;
         }
 
