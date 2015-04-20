@@ -83,3 +83,20 @@ C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.dll
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Learning.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CommandLine.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CommandLine.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.pdb

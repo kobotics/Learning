@@ -15,3 +15,20 @@ C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL\bin\Debug\Newtonsoft.Json
 C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.csprojResolveAssemblyReference.cache
 C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.dll
 C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Learning.IMRL.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\CommandLine.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Learning.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Learning.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\CommandLine.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.pdb

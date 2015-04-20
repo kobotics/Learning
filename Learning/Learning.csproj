@@ -146,6 +146,7 @@
     <Compile Include="Testing\Config\Scenarios\StochasticScenario.cs" />
     <Compile Include="Testing\ICsvConvertible.cs" />
     <Compile Include="Testing\OptimizationScheme.cs" />
+    <Compile Include="Testing\Runners\Global.cs" />
     <Compile Include="Testing\Runners\ParallelOptimTestRunnner.cs" />
     <Compile Include="Testing\Runners\SingleTestRunner.cs" />
     <Compile Include="Testing\StochasticOptimization\IStochasticOptimizationTest.cs" />

@@ -6,7 +6,7 @@
       "$id": "3",
       "envPath": "../../../../bin/config",
       "graphics": true,
-      "cpus": 4,
+      "cpus": 8,
       "numSims": 16,
       "numSamples": 100,
       "testType": 4,
@@ -22,9 +22,9 @@
         4
       ]
     },
-    "TestMeasuresFilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
-    "EnvironmentConfigFile": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\bin\\config\\corners-environment.xml",
-    "FilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
+    "TestMeasuresFilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
+    "EnvironmentConfigFile": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\bin\\config\\corners-environment.xml",
+    "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
     "MaxStates": 275,
     "FitnessText": "Fitness",
     "AgentFitnessFunction": {
@@ -155,7 +155,7 @@
   },
   "MemoryUsage": 0,
   "TestSpeed": "00:00:00",
-  "FilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
+  "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
   "LogWriter": {
     "$id": "13",
     "WriteConsole": true

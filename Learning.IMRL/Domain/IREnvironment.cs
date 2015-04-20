@@ -25,7 +25,6 @@ namespace Learning.IMRL.Domain
         public string wPenaltyScale = "exp";
         public double PATH_COST = 0;
 
-
         protected Cell[] possiblePreyCells;
 
         public IREnvironment() : base(3, 3)
@@ -80,7 +79,7 @@ namespace Learning.IMRL.Domain
                 result= 0;
 
             if (PenaltyScale.Equals("exp"))
-                result=result*(1-Math.Pow(alpha,-this.timeStepCounter))
+                result = result * (1 - Math.Pow(alpha, -this.timeStepCounter));
 
             return result;
         }

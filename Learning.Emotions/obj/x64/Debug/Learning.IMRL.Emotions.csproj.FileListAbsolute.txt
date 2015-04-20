@@ -112,3 +112,22 @@ C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning.Emo
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.Emotions.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\CommandLine.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\QuickGraph.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Learning.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\CommandLine.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\QuickGraph.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\obj\x64\Debug\Learning.IMRL.Emotions.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Emotions\obj\x64\Debug\Learning.Emotions.pdb

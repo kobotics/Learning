@@ -24,6 +24,8 @@ namespace Learning.Tests.EmotionalOptimization
             testsConfig.SetDefaultConstants();
             testsConfig.Init();
 
+            //Console.WriteLine(Global.wPenaltyType);
+            
             var programRunner = new ProgramRunner(testsConfig,
                 new EmotionalSingleTestRunner(testsConfig), new OptimizationScheme(new ListFitnessTest(null),
                     new List<TopTestScheme>
