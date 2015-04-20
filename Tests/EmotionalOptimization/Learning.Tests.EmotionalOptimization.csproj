@@ -144,6 +144,10 @@
     <Compile Include="Testing\PacmanScenario.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Global\Global.csproj">
+      <Project>{b777ca4c-ca67-4a9c-996e-37c1333f26c5}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Learning.Emotions\Learning.IMRL.Emotions.csproj">
       <Project>{46504CB7-1614-4386-9F42-0C3C898DE6FD}</Project>
       <Name>Learning.IMRL.Emotions</Name>

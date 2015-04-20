@@ -46,3 +46,5 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\obj\Debug\Learning.Forms.S
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\obj\Debug\Learning.Forms.csproj.GenerateResource.Cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\obj\Debug\Learning.Forms.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\obj\Debug\Learning.Forms.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.Forms\bin\Debug\Global.pdb

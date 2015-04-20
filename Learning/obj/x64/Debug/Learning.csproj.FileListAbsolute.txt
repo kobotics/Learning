@@ -120,3 +120,5 @@ C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.cspro
 C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.dll
 C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.pdb
 >>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.pdb

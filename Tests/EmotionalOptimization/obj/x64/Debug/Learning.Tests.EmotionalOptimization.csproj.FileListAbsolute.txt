@@ -321,3 +321,5 @@ C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\D
 C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.exe
 C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.pdb
 >>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
+C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\bin\Debug\Global.pdb

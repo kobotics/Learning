@@ -1,0 +1,4 @@
+C:\Users\Kim\Desktop\IMRL_git\Learning\Global\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Global\bin\Debug\Global.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Global\obj\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Global\obj\Debug\Global.pdb

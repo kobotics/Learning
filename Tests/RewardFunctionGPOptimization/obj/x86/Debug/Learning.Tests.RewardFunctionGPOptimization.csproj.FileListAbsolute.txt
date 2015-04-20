@@ -68,3 +68,5 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\obj\x8
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\obj\x86\Debug\Learning.Tests.RewardFunctionGPOptimization.csproj.GenerateResource.Cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\obj\x86\Debug\Learning.Tests.RewardFunctionGPOptimization.exe
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\obj\x86\Debug\Learning.Tests.RewardFunctionGPOptimization.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\RewardFunctionGPOptimization\bin\Debug\Global.pdb

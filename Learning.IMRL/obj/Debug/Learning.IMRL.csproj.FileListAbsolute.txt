@@ -32,3 +32,5 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\MathNet.Numerics.
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\QuickGraph.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\obj\Debug\Learning.IMRL.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL\bin\Debug\Global.pdb

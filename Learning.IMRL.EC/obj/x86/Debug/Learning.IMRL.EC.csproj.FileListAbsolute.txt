@@ -46,3 +46,5 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\QuickGraph.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.csprojResolveAssemblyReference.cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.pdb

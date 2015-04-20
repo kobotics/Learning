@@ -12,6 +12,7 @@ using Learning.Domain.Cells;
 using Learning.Domain.Environments;
 using Learning.Domain.States;
 using Learning.IMRL.Domain.Agents;
+using Learning.Testing.Runners;
 
 namespace Learning.IMRL.Domain
 {
@@ -67,7 +68,7 @@ namespace Learning.IMRL.Domain
         public override double GetAgentReward(IAgent agent, IState state, IAction action)
         {
             var temp = this.AgentFinishedTask(agent, state, action) ? 
-                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(Global.wPenaltyType,Global.wPenaltyParam,this.previousWaterLevel,Global.wPenaltyAlpha,Global.wPenaltyScale))) : 0;
+                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(Global.Global.wPenaltyType,Global.Global.wPenaltyParam,this.previousWaterLevel,Global.Global.wPenaltyAlpha,Global.Global.wPenaltyScale))) : 0;
             return temp;
         }
 

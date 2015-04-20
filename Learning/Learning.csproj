@@ -227,6 +227,12 @@
     </Compile>
     <Compile Include="Domain\Managers\Perception\CellPerceptionManager.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Global\Global.csproj">
+      <Project>{b777ca4c-ca67-4a9c-996e-37c1333f26c5}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

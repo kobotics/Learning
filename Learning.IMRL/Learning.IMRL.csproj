@@ -69,6 +69,9 @@
     <Optimize>false</Optimize>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="CommandLine, Version=1.9.71.2, Culture=neutral, PublicKeyToken=de6f01bd326f8c32, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -109,6 +112,10 @@
     <Compile Include="Testing\IMRLTest.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Global\Global.csproj">
+      <Project>{b777ca4c-ca67-4a9c-996e-37c1333f26c5}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Learning\Learning.csproj">
       <Project>{BC34D436-05BC-4AC1-9DF0-616DDD2EB9EF}</Project>
       <Name>Learning</Name>
