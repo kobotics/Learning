@@ -14,6 +14,8 @@ using PS.Utilities;
 using PS.Utilities.Collections;
 using PS.Utilities.IO;
 
+using Learning.Tests.EmotionalOptimization; //added by Kim
+
 namespace Learning.Testing.Runners
 {
     public class SingleTestRunner : TestRunner
@@ -28,6 +30,7 @@ namespace Learning.Testing.Runners
             //creates test of default TestType and with default parameters 
             var test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
             this.PrepareTest(test);
+             
 
             //executes test
             this.RunSimulation(test);

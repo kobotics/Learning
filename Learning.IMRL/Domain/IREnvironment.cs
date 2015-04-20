@@ -19,11 +19,12 @@ namespace Learning.IMRL.Domain
     public class IREnvironment : SingleAgentEnvironment
     {
         protected const int WORLD_SIZE = 3;
-        public string wPenaltyType = "linear";
-        public double wPenaltyParam = 1;
-        public double wPenaltyAlpha = 1.0002;
-        public string wPenaltyScale = "exp";
-        public double PATH_COST = 0;
+
+        //public string wPenaltyType = "linear";
+        //public double wPenaltyParam = 1;
+        //public double wPenaltyAlpha = 1.0002;
+        //public string wPenaltyScale = "exp";
+        private double PATH_COST = 0.1;
 
         protected Cell[] possiblePreyCells;
 
@@ -66,7 +67,7 @@ namespace Learning.IMRL.Domain
         public override double GetAgentReward(IAgent agent, IState state, IAction action)
         {
             var temp = this.AgentFinishedTask(agent, state, action) ? 
-                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(wPenaltyType,wPenaltyParam,this.previousWaterLevel,wPenaltyAlpha,wPenaltyScale))) : 0;
+                (Math.Max(0.01,this.Hare.Reward-excessWaterPenalty(Global.wPenaltyType,Global.wPenaltyParam,this.previousWaterLevel,Global.wPenaltyAlpha,Global.wPenaltyScale))) : 0;
             return temp;
         }
 

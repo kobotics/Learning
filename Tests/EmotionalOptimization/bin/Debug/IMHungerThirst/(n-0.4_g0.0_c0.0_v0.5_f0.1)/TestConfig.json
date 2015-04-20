@@ -22,9 +22,15 @@
         4
       ]
     },
+<<<<<<< HEAD
     "TestMeasuresFilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
     "EnvironmentConfigFile": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\bin\\config\\corners-environment.xml",
     "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
+=======
+    "TestMeasuresFilePath": "C:\\Users\\Allison\\Documents\\GitHub\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
+    "EnvironmentConfigFile": "C:\\Users\\Allison\\Documents\\GitHub\\Learning\\bin\\config\\corners-environment.xml",
+    "FilePath": "C:\\Users\\Allison\\Documents\\GitHub\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
+>>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
     "MaxStates": 275,
     "FitnessText": "Fitness",
     "AgentFitnessFunction": {
@@ -155,7 +161,11 @@
   },
   "MemoryUsage": 0,
   "TestSpeed": "00:00:00",
+<<<<<<< HEAD
   "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
+=======
+  "FilePath": "C:\\Users\\Allison\\Documents\\GitHub\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
+>>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
   "LogWriter": {
     "$id": "13",
     "WriteConsole": true

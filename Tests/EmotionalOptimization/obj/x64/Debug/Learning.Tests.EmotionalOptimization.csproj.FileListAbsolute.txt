@@ -238,6 +238,7 @@ C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Tests\Emotio
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Forms.PacmanLightSimForm.resources
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Properties.Resources.resources
 C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Tests.EmotionalOptimization.exe.config
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.exe
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.pdb
@@ -278,3 +279,45 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Forms.PacmanLightSimForm.resources
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Properties.Resources.resources
 C:\Users\Kim\Desktop\IMRL_git\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.csproj.GenerateResource.Cache
+=======
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Tests.EmotionalOptimization.exe.config
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Tests.EmotionalOptimization.exe
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Tests.EmotionalOptimization.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Emotions.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Forms.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.IMRL.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\MathNet.Numerics.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\PS.Utilities.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\AForge.Imaging.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\CommandLine.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\QuickGraph.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Emotions.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.Forms.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.IMRL.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Learning.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\MathNet.Numerics.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\CommandLine.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\QuickGraph.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.csprojResolveAssemblyReference.cache
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Forms.PacmanLightSimForm.resources
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.Properties.Resources.resources
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.csproj.GenerateResource.Cache
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.exe
+C:\Users\Allison\Documents\GitHub\Learning\Tests\EmotionalOptimization\obj\x64\Debug\Learning.Tests.EmotionalOptimization.pdb
+>>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
