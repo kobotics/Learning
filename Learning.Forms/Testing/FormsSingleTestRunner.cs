@@ -37,7 +37,8 @@ namespace Learning.Forms.Testing
 
             //shows menu
             InitApplication();
-            using (var chooseForm =
+            this.RunConsoleApplication(test);
+            /*using (var chooseForm =
                 new ChooseOptionForm(new List<string> {OPTION_CONSOLE, OPTION_FORM})
                 {Text = OPTIONS_FORM_TITLE + test.TestName})
             {
@@ -57,7 +58,7 @@ namespace Learning.Forms.Testing
                         this.RunFormApplication(this.TestsConfig.CellSize, true, test);
                         break;
                 }
-            }
+            }*/
         }
 
         protected override void RunConsoleApplication(FitnessTest test)

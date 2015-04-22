@@ -29,16 +29,30 @@ namespace Learning.Testing.Runners
         {
             //creates test of default TestType and with default parameters 
             var test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
-            this.PrepareTest(test);
-             
+            //this.PrepareTest(test);
 
-            //executes test
-            this.RunSimulation(test);
+            for (int i = 0; i < 2; i++) //added by Kim
+            {
+                //executes test
+
+                //added by Kim
+                //set parameters
+                Global.Global.wPenaltyAlpha = i;
+                //end of added by Kim
+                //test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
+                //this.PrepareTest(test);
+                //Console.WriteLine("Test Ready to Run");
+                this.PrepareTest(test);
+
+                this.RunSimulation(test);
+
+                this.PrintTestMeasure(test);
+
+                test.Dispose();
+            }
 
             //creates and prints test measure
-            this.PrintTestMeasure(test);
-
-            test.Dispose();
+            
         }
 
         private void PrepareTest(FitnessTest test)

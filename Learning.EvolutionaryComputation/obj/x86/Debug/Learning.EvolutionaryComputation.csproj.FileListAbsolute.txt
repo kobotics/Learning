@@ -17,3 +17,5 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debu
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.csprojResolveAssemblyReference.cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.pdb
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debug\Global.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debug\Global.pdb

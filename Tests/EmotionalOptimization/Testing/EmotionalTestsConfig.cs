@@ -73,8 +73,8 @@ namespace Learning.Tests.EmotionalOptimization.Testing
             //test-related constants
             var stepInterval = new StepInterval<double>(-1, 1, .1); //(-1, 1, 1); //.1m; //.25m; //1m; //.2m
             this.ParamsStepIntervals = StepInterval<double>.CreateArray(stepInterval, 5);
-            this.NumTimeSteps = 100000;
-            this.NumSimulations = 16; //208; //1; //4; //16; //208; //104; //48;
+            this.NumTimeSteps = 10000;
+            this.NumSimulations = 8; //208; //1; //4; //16; //208; //104; //48;
             this.NumSamples = 100; //100; // this.NumTimeSteps;
             this.SampleSteps = this.NumTimeSteps/this.NumSamples;
 
