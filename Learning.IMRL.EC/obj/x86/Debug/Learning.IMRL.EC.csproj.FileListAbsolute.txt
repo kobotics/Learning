@@ -1,27 +1,3 @@
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.dll.config
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\AForge.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\AForge.Genetic.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\CommandLine.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.EvolutionaryComputation.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\MathNet.Numerics.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\PS.Utilities.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\QuickGraph.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.EvolutionaryComputation.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Learning.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\CommandLine.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\MathNet.Numerics.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\bin\Debug\QuickGraph.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.csprojResolveAssemblyReference.cache
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.dll.config
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.EC.pdb
@@ -34,6 +10,7 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.IMRL.
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\MathNet.Numerics.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\PS.Utilities.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\QuickGraph.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\CarlosAg.ExcelXmlWriter.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.EvolutionaryComputation.pdb
@@ -42,9 +19,8 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Learning.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\CommandLine.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\MathNet.Numerics.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\QuickGraph.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.csprojResolveAssemblyReference.cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\obj\x86\Debug\Learning.IMRL.EC.pdb
-C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.dll
-C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.IMRL.EC\bin\Debug\Global.pdb

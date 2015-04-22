@@ -1,97 +1,13 @@
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Kim\Box Sync\Machine Learning\Project\Code\Learning\Learning\obj\x64\Debug\Learning.pdb
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Allison\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.pdb
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.pdb
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Keshav Budwal\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning\obj\x64\Debug\Learning.pdb
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Keshav Budwal\Documents\10-701\Project\New folder\Learning\Learning\obj\x64\Debug\Learning.pdb
-<<<<<<< HEAD
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Learning.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Learning.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CommandLine.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\MathNet.Numerics.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\PS.Utilities.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\QuickGraph.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\CommandLine.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\MathNet.Numerics.xml
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
@@ -101,24 +17,3 @@ C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.Propertie
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\obj\x64\Debug\Learning.pdb
-=======
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\Learning.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\Learning.pdb
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\CommandLine.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\MathNet.Numerics.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\PS.Utilities.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\QuickGraph.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\CommandLine.xml
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\MathNet.Numerics.xml
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Allison\Documents\GitHub\Learning\Learning\bin\Debug\QuickGraph.xml
-C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.csprojResolveAssemblyReference.cache
-C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.Properties.Resources.resources
-C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.csproj.GenerateResource.Cache
-C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.dll
-C:\Users\Allison\Documents\GitHub\Learning\Learning\obj\x64\Debug\Learning.pdb
->>>>>>> fffea88604eccf09294c151e2e8d39e276cf3851
-C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.dll
-C:\Users\Kim\Desktop\IMRL_git\Learning\Learning\bin\Debug\Global.pdb

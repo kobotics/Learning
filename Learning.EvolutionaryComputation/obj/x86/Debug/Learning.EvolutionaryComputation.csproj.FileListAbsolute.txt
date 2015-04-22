@@ -1,22 +1,3 @@
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.dll.config
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\AForge.Genetic.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\CommandLine.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\PS.Utilities.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\MathNet.Numerics.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\QuickGraph.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.pdb
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\CommandLine.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\MathNet.Numerics.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\bin\Debug\QuickGraph.xml
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.csprojResolveAssemblyReference.cache
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.dll
-C:\Users\Kim\Dropbox\ML Project\Learning\Learning.EvolutionaryComputation\obj\x86\Debug\Learning.EvolutionaryComputation.pdb
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.dll.config
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.dll
 C:\Users\Kim\Desktop\IMRL_git\Learning\Learning.EvolutionaryComputation\bin\Debug\Learning.EvolutionaryComputation.pdb
