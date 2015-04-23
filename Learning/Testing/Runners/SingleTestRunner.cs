@@ -34,7 +34,10 @@ namespace Learning.Testing.Runners
                 String.Format("{0}{1}..{1}{2}.csv", test.FilePath, Path.DirectorySeparatorChar,
                     "NewCompiledCSV"));
             if (!File.Exists(testMeasuresFilePath))
-                ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "HeaderThatCouldBeRenamed");
+            {
+                ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "All Test Results");
+                ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "Fitness Avg, Stdev, wPenaltyType, wPenaltyParam, wPenaltyScale, wPenaltyAlpha");
+            }
             
             for (int i = 0; i < 2; i++) //added by Kim
             {

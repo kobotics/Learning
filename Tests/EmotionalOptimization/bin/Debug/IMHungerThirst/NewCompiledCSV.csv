@@ -1,5 +1,4 @@
-HeaderThatCouldBeRenamed
-1347.50,163.16
-1387.50,184.16
-1418.75,171.92
-1395.00,139.24
+All Test Results
+Fitness Avg, Stdev, wPenaltyType, wPenaltyParam, wPenaltyScale, wPenaltyAlpha
+1437.50,208.79,none,0,exp,1.0002
+1411.88,177.85,none,1,exp,1.0002
