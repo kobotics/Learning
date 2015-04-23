@@ -1,14 +1,14 @@
-[4/22/2015 7:36:44 PM] - Simulation 0: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 4: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 1: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 6: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 2: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 3: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 7: 0.00
-[4/22/2015 7:36:44 PM] - Simulation 5: 0.00
-[4/22/2015 7:36:44 PM] - (n-0.4_g0.0_c0.0_v0.5_f0.1) has finished.
-[4/22/2015 7:36:44 PM] - Time taken: 00:00:06
-[4/22/2015 7:36:44 PM] - Memory used: 5520488 bytes
-[4/22/2015 7:36:44 PM] - Test score: 0.00 ± 0.00
-[4/22/2015 7:36:44 PM] - Printing agent performance...
-[4/22/2015 7:36:45 PM] - Printing agent statistical quantities...
+[4/22/2015 7:57:50 PM] - Simulation 1: 1180.00
+[4/22/2015 7:57:50 PM] - Simulation 0: 1290.00
+[4/22/2015 7:57:50 PM] - Simulation 2: 1390.00
+[4/22/2015 7:57:50 PM] - Simulation 3: 1380.00
+[4/22/2015 7:57:54 PM] - Simulation 6: 1440.00
+[4/22/2015 7:57:54 PM] - Simulation 5: 1430.00
+[4/22/2015 7:57:54 PM] - Simulation 4: 1520.00
+[4/22/2015 7:57:54 PM] - Simulation 7: 1340.00
+[4/22/2015 7:57:54 PM] - (n-0.4_g0.0_c0.0_v0.5_f0.1) has finished.
+[4/22/2015 7:57:54 PM] - Time taken: 00:00:08
+[4/22/2015 7:57:54 PM] - Memory used: 5559848 bytes
+[4/22/2015 7:57:54 PM] - Test score: 1395.00 ± 139.24
+[4/22/2015 7:57:54 PM] - Printing agent performance...
+[4/22/2015 7:57:54 PM] - Printing agent statistical quantities...

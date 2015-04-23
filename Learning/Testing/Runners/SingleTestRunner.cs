@@ -30,14 +30,19 @@ namespace Learning.Testing.Runners
             //creates test of default TestType and with default parameters 
             var test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
             //this.PrepareTest(test);
-
+            var testMeasuresFilePath = Path.GetFullPath(
+                String.Format("{0}{1}..{1}{2}.csv", test.FilePath, Path.DirectorySeparatorChar,
+                    "NewCompiledCSV"));
+            if (!File.Exists(testMeasuresFilePath))
+                ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "HeaderThatCouldBeRenamed");
+            
             for (int i = 0; i < 2; i++) //added by Kim
             {
                 //executes test
 
                 //added by Kim
                 //set parameters
-                Global.Global.wPenaltyAlpha = i;
+                Global.Global.wPenaltyParam = i;
                 //end of added by Kim
                 //test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
                 //this.PrepareTest(test);
@@ -46,7 +51,9 @@ namespace Learning.Testing.Runners
 
                 this.RunSimulation(test);
 
-                this.PrintTestMeasure(test);
+                //this.PrintTestMeasure(test);
+                ExclusiveFileWriter.AppendLine(testMeasuresFilePath, test.FinalScores.Avg.ToString("F") + "," + test.FinalScores.StdDev.ToString("F")+
+                    ","+Global.Global.wPenaltyType+","+Global.Global.wPenaltyParam+","+Global.Global.wPenaltyScale+","+Global.Global.wPenaltyAlpha);
 
                 test.Dispose();
             }
