@@ -39,13 +39,17 @@ namespace Learning.Testing.Runners
                 ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "Fitness Avg, Stdev, wPenaltyType, wPenaltyParam, wPenaltyScale, wPenaltyAlpha");
             }
             
-            for (int i = 0; i < 2; i++) //added by Kim
+            for (int i = 0; i < 20; i++) //added by Kim
             {
                 //executes test
 
                 //added by Kim
                 //set parameters
-                Global.Global.wPenaltyParam = i;
+                double step = 0.15 / 20; 
+                Global.Global.wPenaltyType = "linear";
+                Global.Global.wPenaltyScale = "poly";
+                Global.Global.wPenaltyParam = 0.1;
+                Global.Global.wPenaltyAlpha = 0.2 + step*i;
                 //end of added by Kim
                 //test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
                 //this.PrepareTest(test);

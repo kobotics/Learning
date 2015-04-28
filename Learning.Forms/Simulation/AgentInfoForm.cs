@@ -18,7 +18,7 @@ namespace Learning.Forms.Simulation
 {
     public partial class AgentInfoForm : Form
     {
-        protected IAgent agent;
+        public IAgent agent; //changed by Kim to public
 
         public AgentInfoForm(IEnumerable<IAgent> agents)
         {

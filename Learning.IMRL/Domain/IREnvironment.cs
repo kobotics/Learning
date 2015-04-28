@@ -81,8 +81,15 @@ namespace Learning.IMRL.Domain
                 result= 0;
 
             if (PenaltyScale.Equals("exp"))
+            {
                 result = result * (1 - Math.Pow(alpha, -this.timeStepCounter));
-
+                //Console.WriteLine(1 - Math.Pow(alpha, -this.timeStepCounter));
+            }
+            if (PenaltyScale.Equals("poly"))
+            {
+                result = result * (1 - 1/Math.Pow(this.timeStepCounter+1,alpha));
+                //Console.WriteLine(1 - Math.Pow(alpha, -this.timeStepCounter));
+            }
             return result;
         }
 

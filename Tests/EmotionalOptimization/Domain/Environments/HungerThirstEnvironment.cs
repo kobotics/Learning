@@ -11,13 +11,14 @@ using Learning.Domain.Agents;
 using Learning.Domain.Cells;
 using Learning.Domain.States;
 using Learning.IMRL.Domain;
+using Learning.Forms.Simulation;
 
 namespace Learning.Tests.EmotionalOptimization.Domain.Environments
 {
     [Serializable]
     public class HungerThirstEnvironment : AutoEatEnvironment
     {
-        private const int THIRST_PROB = 1;
+        private const int THIRST_PROB = 6;
 
         public HungerThirstEnvironment()
         {
@@ -51,9 +52,18 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
         public override void Update()
         {
             base.Update();
-
-            var state = this.Agent.ShortTermMemory.PreviousState;
-            if ((state is IStimuliState) && ((IStimuliState) state).Sensations.Contains(this.Water.IdToken) && this.WaterLevel < MAX_WATER_LEVEL)
+            var currAction = Agent.PerceptionManager.Agent.ShortTermMemory.CurrentAction;
+            //Console.Write((currAction.ToString() == "MoveDown"));
+            //var state = this.Agent.ShortTermMemory.PreviousState;
+            var state = Agent.ShortTermMemory.PreviousState;
+            //Console.Write(";");
+            //Console.WriteLine(state);
+            
+            //Console.WriteLine((state is IStimuliState) && ((IStimuliState)state).Sensations.Contains(this.Water.IdToken));
+            //Console.WriteLine((currState is IStimuliState) && ((IStimuliState)currState).Sensations.Contains(this.Water.IdToken));
+            if ((Global.Global.Hard && (state is IStimuliState) && (((IStimuliState)state).Sensations.Contains(this.Water.IdToken)) && ((currAction.ToString() == "MoveDown") || (currAction.ToString() == "MoveRight")) && this.WaterLevel < MAX_WATER_LEVEL) 
+                ||
+                (!Global.Global.Hard && (state is IStimuliState) && (((IStimuliState)state).Sensations.Contains(this.Water.IdToken)) && this.WaterLevel < MAX_WATER_LEVEL))
                 this.WaterLevel = this.WaterLevel + 1;
             else if(this.rand.Next(10) < THIRST_PROB && this.WaterLevel > 0){
                 this.WaterLevel = this.WaterLevel-1;

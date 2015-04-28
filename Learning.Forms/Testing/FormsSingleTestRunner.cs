@@ -58,7 +58,7 @@ namespace Learning.Forms.Testing
                         this.RunFormApplication(this.TestsConfig.CellSize, true, test);
                         break;
                 }
-            }*/
+            }*/               
         }
 
         protected override void RunConsoleApplication(FitnessTest test)
