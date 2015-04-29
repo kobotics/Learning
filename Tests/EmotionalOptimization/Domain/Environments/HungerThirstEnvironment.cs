@@ -61,14 +61,19 @@ namespace Learning.Tests.EmotionalOptimization.Domain.Environments
             
             //Console.WriteLine((state is IStimuliState) && ((IStimuliState)state).Sensations.Contains(this.Water.IdToken));
             //Console.WriteLine((currState is IStimuliState) && ((IStimuliState)currState).Sensations.Contains(this.Water.IdToken));
-            if ((Global.Global.Hard && (state is IStimuliState) && (((IStimuliState)state).Sensations.Contains(this.Water.IdToken)) && ((currAction.ToString() == "MoveDown") || (currAction.ToString() == "MoveRight")) && this.WaterLevel < MAX_WATER_LEVEL) 
+            if ((Global.Global.Hard && (state is IStimuliState) && (((IStimuliState)state).Sensations.Contains(this.Water.IdToken)) && ((currAction.ToString() == "MoveDown") || (currAction.ToString() == "MoveRight")) && this.WaterLevel < MAX_WATER_LEVEL)
                 ||
                 (!Global.Global.Hard && (state is IStimuliState) && (((IStimuliState)state).Sensations.Contains(this.Water.IdToken)) && this.WaterLevel < MAX_WATER_LEVEL))
+            {
                 this.WaterLevel = this.WaterLevel + 1;
-            else if(this.rand.Next(10) < THIRST_PROB && this.WaterLevel > 0){
-                this.WaterLevel = this.WaterLevel-1;
+                Global.Global.waterCount = Global.Global.waterCount + 1;
             }
-            else if(((state is IStimuliState) &&  ((IStimuliState) state).Sensations.Contains(this.Hare.IdToken))){
+            else if (this.rand.Next(10) < THIRST_PROB && this.WaterLevel > 0)
+            {
+                this.WaterLevel = this.WaterLevel - 1;
+            }
+            else if (((state is IStimuliState) && ((IStimuliState)state).Sensations.Contains(this.Hare.IdToken)))
+            {
                 previousWaterLevel = this.WaterLevel;
                 this.WaterLevel = 0;
             }

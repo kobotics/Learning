@@ -6,8 +6,8 @@
       "$id": "3",
       "envPath": "../../../../bin/config",
       "graphics": true,
-      "cpus": 8,
-      "numSims": 200,
+      "cpus": 4,
+      "numSims": 8,
       "numSamples": 100,
       "testType": 4,
       "params": [
@@ -22,9 +22,9 @@
         4
       ]
     },
-    "TestMeasuresFilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
-    "EnvironmentConfigFile": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Learning\\bin\\config\\corners-environment.xml",
-    "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
+    "TestMeasuresFilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\Test_results\\IMHungerThirst\\Optim\\TestMeasuresOptim.csv",
+    "EnvironmentConfigFile": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\bin\\config\\corners-environment.xml",
+    "FilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst",
     "MaxStates": 275,
     "FitnessText": "Fitness",
     "AgentFitnessFunction": {
@@ -32,7 +32,7 @@
     }
   },
   "StopAllSimulations": false,
-  "ProgressValue": 1.0,
+  "ProgressValue": 0.0,
   "TestName": "(n-0.4_g0.0_c0.0_v0.5_f0.1)",
   "LogStatistics": true,
   "TestParameters": {
@@ -86,25 +86,52 @@
       "max": 1.7976931348623157E+308,
       "min": -1.7976931348623157E+308
     },
-    "SampleCount": 200,
-    "ValueCount": 3800,
-    "Avg": 32169.076315789473,
-    "Max": 40520.0,
-    "Min": 700.0,
-    "StdDev": 5431.1895633592567,
-    "Sum": 122242490.0,
-    "SumSquare": 4044490208300.0,
-    "Values": null,
-    "SampleStdDevs": null,
-    "ValuesSumSquare": null,
-    "MaxNumSamples": 0,
-    "Value": 36810.0,
+    "SampleCount": 0,
+    "ValueCount": 0,
+    "Avg": 0.0,
+    "Max": -1.7976931348623157E+308,
+    "Min": 1.7976931348623157E+308,
+    "StdDev": 0.0,
+    "Sum": 0.0,
+    "SumSquare": 0.0,
+    "Values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SampleStdDevs": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ValuesSumSquare": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MaxNumSamples": 8,
+    "Value": 0.0,
     "SampleSteps": 1,
     "QuantityCount": 1
   },
-  "MemoryUsage": 6528336,
-  "TestSpeed": "00:16:37.6530625",
-  "FilePath": "C:\\Users\\Kim\\Desktop\\IMRL_git\\Learning\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
+  "MemoryUsage": 0,
+  "TestSpeed": "00:00:00",
+  "FilePath": "C:\\Users\\Keshav Budwal\\Documents\\10-701\\Project\\New folder\\Learning\\Tests\\EmotionalOptimization\\bin\\Debug\\IMHungerThirst\\(n-0.4_g0.0_c0.0_v0.5_f0.1)",
   "LogWriter": {
     "$id": "13",
     "WriteConsole": true
