@@ -1,14 +1,16 @@
 Range; -1.79769313486232E+308; 1.79769313486232E+308
 Quantity Count; 1
-Value Count; 4000
-Min; 700
-Max; 40520
-Average; 32148.3575
-Sum; 128593430
-Sum Square; 4253297268100
-Std Dev; 5460.30043105625
-Avg + Std Dev; 37608.6579310563
-Avg - Std Dev; 26688.0570689437
-Avg + 2*Std Dev; 43068.9583621125
-Avg - 2*Std Dev; 21227.7566378875
+Value Count; 1
+Min; 26760
+Max; 26760
+Average; 26760
+Sum; 26760
+Sum Square; 716097600
+Std Dev; 0
+Avg + Std Dev; 26760
+Avg - Std Dev; 26760
+Avg + 2*Std Dev; 26760
+Avg - 2*Std Dev; 26760
 ;
+Time;Value;StdDev;StdErr;SampleStdDev;Cumulative
+0;26760;0;0;0;26760

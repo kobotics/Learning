@@ -39,17 +39,18 @@ namespace Learning.Testing.Runners
                 ExclusiveFileWriter.AppendLine(testMeasuresFilePath, "Fitness Avg, Stdev, wPenaltyType, wPenaltyParam, wPenaltyScale, wPenaltyAlpha");
             }
             
-            for (int i = 0; i < 20; i++) //added by Kim
+            for (int i = 0; i < 1; i++) //added by Kim
             {
+                Global.Global.waterCount = 0;
                 //executes test
 
                 //added by Kim
                 //set parameters
                 double step = 0.15 / 20; 
-                Global.Global.wPenaltyType = "linear";
-                Global.Global.wPenaltyScale = "poly";
-                Global.Global.wPenaltyParam = 0.1;
-                Global.Global.wPenaltyAlpha = 0.2 + step*i;
+                //Global.Global.wPenaltyType = "linear";
+                //Global.Global.wPenaltyScale = "poly";
+                //Global.Global.wPenaltyParam = 0.1;
+                //Global.Global.wPenaltyAlpha = 0.2 + step*i;
                 //end of added by Kim
                 //test = this.DefaultTestFactory.CreateTest(this.TestsConfig.SingleTestParameters);
                 //this.PrepareTest(test);
@@ -59,6 +60,7 @@ namespace Learning.Testing.Runners
                 this.RunSimulation(test);
 
                 //this.PrintTestMeasure(test);
+                Console.WriteLine(Global.Global.waterCount);
                 ExclusiveFileWriter.AppendLine(testMeasuresFilePath, test.FinalScores.Avg.ToString("F") + "," + test.FinalScores.StdDev.ToString("F")+
                     ","+Global.Global.wPenaltyType+","+Global.Global.wPenaltyParam+","+Global.Global.wPenaltyScale+","+Global.Global.wPenaltyAlpha + ","+Global.Global.waterCount);
 
