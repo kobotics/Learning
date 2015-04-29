@@ -60,7 +60,7 @@ namespace Learning.Testing.Runners
 
                 //this.PrintTestMeasure(test);
                 ExclusiveFileWriter.AppendLine(testMeasuresFilePath, test.FinalScores.Avg.ToString("F") + "," + test.FinalScores.StdDev.ToString("F")+
-                    ","+Global.Global.wPenaltyType+","+Global.Global.wPenaltyParam+","+Global.Global.wPenaltyScale+","+Global.Global.wPenaltyAlpha);
+                    ","+Global.Global.wPenaltyType+","+Global.Global.wPenaltyParam+","+Global.Global.wPenaltyScale+","+Global.Global.wPenaltyAlpha + ","+Global.Global.waterCount);
 
                 test.Dispose();
             }
